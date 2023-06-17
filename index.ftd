@@ -31,7 +31,7 @@ header-item2-link: /portfolio/about
 header-item3-link: /portfolio/blogs
 header-item4-link: /portfolio/projects
 cta-item2: Schedule a Meeting
-cta-item2-link: https://calendly.com/ayushsoni1010
+cta-item2-link: / portfolio/meet
 
 ;; ----------------------------------------------------------------
 ;; ***** PORTFOLIO Header ends *****
@@ -71,7 +71,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: ABHISHEK DARWAI,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -95,7 +95,7 @@ spacing.fixed.px: 10
 
 -- button.secondary: 
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto: abhishekdarwaimp@gmail.com
 
 -- button.primary: 
 title: Schedule a Meeting
@@ -117,27 +117,27 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: YOUR_LINKEDIN_HANLDE
+link: https://www.linkedin.com/in/abhishek-darwai-772b2b200
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: YOUR_TWITTER_HANDLE
+link:https://twitter.com/Abhi5_21?t=nmJtYwpacj3gk8_ZKcsd6g&s=09
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: YOUR_GITHUB_HANLDE
+link:https://github.com/abhi101995
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: YOUR_INSTAGRAM_HANLDE
+link: https://instagram.com/abhishekdarwai?igshid=NTc4MTIwNjQ2YQ==
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: YOUR-YOUTUBE_HANDLE
+link:https://instagram.com/abhishekdarwai?igshid=NTc4MTIwNjQ2YQ==
 image: $assets.files.images.youtube.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:abhishekdarwaimp@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
