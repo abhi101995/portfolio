@@ -22,7 +22,7 @@
 -- navbar.header:
 logo: $assets.files.logo.svg
 logoURL: /portfolio
-header-item1: Home
+header-item1: 
 header-item2: About
 header-item3: Blogs
 header-item4: Projects
